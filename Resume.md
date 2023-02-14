@@ -51,9 +51,9 @@ Performed Value chains analysis for Top 10 traded commodities to assess the Impo
 -	Reviewed international case studies and global best practices that made use of “Blended Finance instruments” for climate mitigation and green investments. 
 -	Developed concept note for national and international stakeholders.
 # Op-Eds
-## Gender-Sensitive Response Post Climate-Disaster: a Learning Curve for Pakistan, can be accessed at, https://women-in-economics.com/gender-sensitive-response-post-climate-disaster-a-learning-curve-for-pakistan/
-## National security and Geo-economics: Pakistan’s economy and ending regional isolation, can be accessed at, https://www.globalvillagespace.com/national-security-and-geo-economics-pakistans-economy-and-ending-regional-isolation/
-## Pakistan’s Shadow Economy: “the Impact Of Global Financial Crisis And Covid-19”, can be accessed at:  https://pide.org.pk/research-author/hudda-najeeb-luni/
-## Economy of Afghan Taliban.2: Do they desperately need West and IMF?, can be accessed at: https://www.globalvillagespace.com/the-taliban-group-and-the-future-of-afghanistan-economy/
+### Gender-Sensitive Response Post Climate-Disaster: a Learning Curve for Pakistan, can be accessed at, https://women-in-economics.com/gender-sensitive-response-post-climate-disaster-a-learning-curve-for-pakistan/
+### National security and Geo-economics: Pakistan’s economy and ending regional isolation, can be accessed at, https://www.globalvillagespace.com/national-security-and-geo-economics-pakistans-economy-and-ending-regional-isolation/
+### Pakistan’s Shadow Economy: “the Impact Of Global Financial Crisis And Covid-19”, can be accessed at:  https://pide.org.pk/research-author/hudda-najeeb-luni/
+### Economy of Afghan Taliban.2: Do they desperately need West and IMF?, can be accessed at: https://www.globalvillagespace.com/the-taliban-group-and-the-future-of-afghanistan-economy/
 
 
