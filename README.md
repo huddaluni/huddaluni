@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **huddaluni@hotmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/hudda-luni-a7910a207](www.linkedin.com/in/hudda-luni-a7910a207)
+- 📄 Resume [https://github.com/huddaluni/huddaluni/blob/main/Resume.md](https://github.com/huddaluni/huddaluni/blob/main/Resume.md)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
